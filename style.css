@@ -60,3 +60,14 @@ p {
     font-size: 15px;
     cursor: pointer;
 }
+#settings-panel {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    width: 250px;
+    padding: 25px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: none;
+}
